@@ -1,0 +1,35 @@
+section {
+    display: -webkit-flex;
+    display: flex;
+  }
+
+
+.header{
+    width: 784px;
+    height: 200px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiyyMLVPlBBTAA6x8NW7s5s9MV8AY7enQwgq8Lcb0HD8v0-0hgtGPh-SHIIV_gdqVat6UWdL9IMadEaDPVfRnRNj6j8VYeoMlGOmdRdg&usqp=CAU&ec=45714081');
+
+}
+
+.colomnmain{
+    width : 200px;
+    height : auto;
+    position : fixed;
+    background-color: rgb(30, 231, 3);
+}
+
+.colomnmsec{
+    width : 584px;
+    height : auto;
+    margin-left: 205px;
+}
+
+.footer {
+    width: 784px;
+    height: 100px;
+    background-color: rgb(169, 179, 172);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
