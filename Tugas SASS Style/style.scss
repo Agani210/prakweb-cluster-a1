@@ -1,0 +1,24 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: black;
+$birulaut: #58a7fdc9;
+
+body{
+	font: $font-stack;
+	color: $primary-color;
+	background-color: $birulaut;
+}
+
+.cfooter{
+	text-align: center;
+	color: $primary-color;
+	font-size: 12px;
+}
+
+img{
+	width: 450px;
+	height: 300px;
+}
+
+.galery{
+	text-align: center;
+}

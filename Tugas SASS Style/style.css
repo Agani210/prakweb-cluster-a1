@@ -1,0 +1,22 @@
+body {
+  font: Helvetica, sans-serif;
+  color: black;
+  background-color: #58a7fdc9;
+}
+
+.cfooter {
+  text-align: center;
+  color: black;
+  font-size: 12px;
+}
+
+img {
+  width: 450px;
+  height: 300px;
+}
+
+.galery {
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
